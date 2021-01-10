@@ -140,7 +140,7 @@ To run an assignment's tests, make sure you're still in the assignment's folder
 on your local machine, then type the following:
 
 ```sh
-learn test
+learn test 
 ```
 
 This command will again cause a flurry of activity in your terminal. You may see
